@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Traveler Converter</string>
+    <string name="convertir">Convert</string>
+    <string name="noCantidad">You haven`t entered any amount :(</string>
+</resources>
