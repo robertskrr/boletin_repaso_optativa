@@ -25,6 +25,7 @@
         android:id="@+id/buttonVideo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="modoVideo"
         android:text="@string/modo_v_deo"
         app:backgroundTint="#FF5722"
         app:layout_constraintBottom_toBottomOf="parent"

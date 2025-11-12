@@ -8,6 +8,7 @@
     tools:context=".ActivitySonido">
 
     <LinearLayout
+        android:id="@+id/linearLayout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -43,4 +44,5 @@
             android:text="@string/detener"
             app:backgroundTint="#FF0000" />
     </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

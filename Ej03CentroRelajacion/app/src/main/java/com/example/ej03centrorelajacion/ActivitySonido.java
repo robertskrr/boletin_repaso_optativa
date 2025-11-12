@@ -1,5 +1,6 @@
 package com.example.ej03centrorelajacion;
 
+import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
@@ -20,14 +21,13 @@ public class ActivitySonido extends AppCompatActivity {
         mp.start();
     }
 
-    public void pausar(View view){
+    public void pausar(View view) {
         mp.pause();
     }
 
-    public void detener(View view){
+    public void detener(View view) {
         mp.stop();
         mp.release();
         mp = MediaPlayer.create(this, R.raw.sonido);
-
     }
 }
