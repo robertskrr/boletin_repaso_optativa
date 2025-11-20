@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Express Translator</string>
+    <string name="traducir">Translate</string>
+    <string name="noTexto">You haven`t entered any text</string>
+    <string name="noExistePalabra">The word does not exist</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Traductor Exprés</string>
+    <string name="traducir">Traducir</string>
+    <string name="noTexto">No has introducido ningún texto</string>
+    <string name="noExistePalabra">La palabra no existe</string>
+</resources>
