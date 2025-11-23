@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora Pro</string>
+    <string name="num1">Número 1</string>
+    <string name="num2">Número 2</string>
+    <string name="numNoValido">NÚMERO NO VÁLIDO</string>
+    <string name="noNumeros">Introduce números por favor</string>
+    <string name="noDividirEntre0">NO SE PUEDE DIVIDIR ENTRE CERO</string>
+    <string name="resultadoGuardado">Resultado guardado con éxito</string>
+    <string name="noResultados">No hay ningún resultado guardado aún</string>
+    <string name="mostrarResultadoGuardado">El resultado guardado es: </string>
+    <string name="guardar_resultado">Guardar resultado</string>
+    <string name="mostrar_timo_resultado">Mostrar útimo resultado</string>
+</resources>

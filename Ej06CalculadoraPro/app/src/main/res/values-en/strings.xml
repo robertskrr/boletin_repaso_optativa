@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator Pro</string>
+    <string name="num1">Number 1</string>
+    <string name="num2">Number 2</string>
+    <string name="numNoValido">INVALID NUMBER</string>
+    <string name="noNumeros">Please enter numbers</string>
+    <string name="noDividirEntre0">CANNOT DIVIDE BY ZERO</string>
+    <string name="resultadoGuardado">Result saved successfully</string>
+    <string name="noResultados">There are no results saved yet</string>
+    <string name="mostrarResultadoGuardado">The saved result is: </string>
+    <string name="guardar_resultado">Save result</string>
+    <string name="mostrar_timo_resultado">Show last result</string>
+</resources>
