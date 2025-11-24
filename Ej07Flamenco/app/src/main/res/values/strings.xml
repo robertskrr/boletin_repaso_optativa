@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vive el Flamenco</string>
+    <string name="sevillanas">Sevillanas</string>
+    <string name="bulerias">Bulerías</string>
+    <string name="fandangos">Fandangos</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="descr_sevillanas">Las Sevillanas son un canto y baile folclórico andaluz
+        (compás de 3/4 o 6/8, de 4 coplas) muy popular en ferias y romerías, con influencias del flamenco.</string>
+    <string name="descr_bulerias">La Bulería es el palo flamenco más rápido, alegre y festero (compás de 12 tiempos),
+        originario de Jerez, y es el baile con el que se suelen rematar las juergas flamencas.</string>
+    <string name="descr_fandangos">El Fandango es uno de los palos flamencos más antiguos, con un ritmo ternario (3/4)
+        que puede ser solemne o fiestero, y existen muchas variantes geográficas como los Fandangos de Huelva o el Fandango Abandolao.</string>
+    <string name="volver">Volver</string>
+</resources>

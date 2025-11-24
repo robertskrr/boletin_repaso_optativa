@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Experience Flamenco</string>
+        <string name="sevillanas">Sevillanas</string>
+        <string name="bulerias">Bulerías</string>
+        <string name="fandangos">Fandangos</string>
+        <string name="reproducir">Play</string>
+        <string name="descr_sevillanas">Sevillanas is an Andalusian folk song and dance
+        (3/4 or 6/8 measure, 4 verses) very popular at fairs and pilgrimages, with flamenco influences.</string>
+        <string name="descr_bulerias">The Bulería is the fastest, happiest, and most festive flamenco style (12-beat measure),
+        originating in Jerez, and is the dance typically used to finish flamenco parties.</string>
+        <string name="descr_fandangos">The Fandango is one of the oldest flamenco styles, with a ternary rhythm (3/4)
+        that can be solemn or festive, and there are many geographical variants like the Fandangos de Huelva or the Fandango Abandolao.</string>
+        <string name="volver">Go Back</string>
+</resources>
