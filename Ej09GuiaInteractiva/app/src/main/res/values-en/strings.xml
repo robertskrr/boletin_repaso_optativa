@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Interactive Tourist Guide</string>
+    <string name="sevilla_descr">Seville is the capital of Andalusia, globally known for its vibrant culture, its impressive Mudejar and Gothic architecture
+        like the Giralda and the Real Alcázar, and for being the cradle of flamenco and festive traditions like Holy Week (Semana Santa) and the April Fair (Feria
+        de Abril).</string>
+    <string name="granada_descr">Granada is an Andalusian jewel nestled at the foot of Sierra Nevada, globally famous for housing the majestic Alhambra,
+        a Nasrid palace complex that is the maximum exponent of Islamic architecture in Western Europe.</string>
+    <string name="cordoba_descr">Córdoba is a city with a monumental history that was the splendid capital of the Umayyad Caliphate,
+        treasuring today the unparalleled Mosque-Cathedral as the ultimate symbol of the historical coexistence of cultures, along with its famous flowery
+        streets and the Patios Festival.</string>
+    <string name="sevilla">Seville</string>
+    <string name="granada">Granada</string>
+    <string name="cordoba">Córdoba</string>
+    <string name="inicio">Home</string>
+</resources>

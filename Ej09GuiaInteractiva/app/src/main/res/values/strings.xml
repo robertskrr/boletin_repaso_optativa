@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guia Turística Interactiva</string>
+    <string name="sevilla_descr">Sevilla es la capital de Andalucía, mundialmente conocida por su vibrante cultura, su impresionante arquitectura
+        mudéjar y gótica como la Giralda y el Real Alcázar, y por ser la cuna del flamenco y de tradiciones festivas como la Semana Santa y la Feria
+        de Abril.</string>
+    <string name="granada_descr">Granada es una joya andaluza enclavada a los pies de Sierra Nevada, famosa globalmente por albergar la majestuosa Alhambra,
+        un complejo palaciego nazarí que es el máximo exponente de la arquitectura islámica en Europa occidental.</string>
+    <string name="cordoba_descr">Córdoba es una ciudad con una historia monumental que fue la esplendorosa capital del califato omeya,
+        atesorando hoy la inigualable Mezquita-Catedral como máximo símbolo de la convivencia histórica de culturas, junto a sus famosas callejuelas
+        floridas y el Festival de los Patios.</string>
+    <string name="sevilla">Sevilla</string>
+    <string name="granada">Granada</string>
+    <string name="cordoba">Córdoba</string>
+    <string name="inicio">Inicio</string>
+</resources>
